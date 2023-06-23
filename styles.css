@@ -125,7 +125,7 @@ body{
 /*page d'accueil*/
 
 #hero{
-	background-image: url("Image/hero2.png");
+	background-image: url("Images/hero2.png");
 	height: 90vh;
 	width: 100%;
 	background-position: top 25% right 0;
@@ -144,7 +144,7 @@ body{
 	color: #088178;
 }
 #hero button{
-	background-image: url("Image/button.png");
+	background-image: url("Images/button.png");
 	background-size: cover;
 	background-color: transparent;
 	color: #000;
@@ -278,7 +278,7 @@ body{
  	align-items: center;
  	text-align: center;
  	justify-content: center;
- 	background-image: url("Image/banner/b1.jpg");
+ 	background-image: url("Images/banner/b1.jpg");
  	width: 100%;
  	height: 40vh;
  	background-size: cover;
@@ -315,7 +315,7 @@ body{
  	flex-direction: column;
  	align-items: flex-start;
  	justify-content: center;
- 	background-image: url("Image/fash2.jpg");
+ 	background-image: url("Images/fash2.jpg");
  	min-width: 550px;
  	height: 50vh;
  	background-size: cover;
@@ -349,7 +349,7 @@ body{
 	border: 1px solid #088178;
 }
 #sm-banner .banner-box:nth-child(2) {
-	background-image: url("Image/homme/sw2.jpg");
+	background-image: url("Images/homme/sw2.jpg");
 }
 #sm-banner .banner-box:nth-child(2) h2, #sm-banner .banner-box:nth-child(2) h4, #sm-banner .banner-box:nth-child(2) span, #sm-banner .banner-box:nth-child(2) button{
 	color: black;
@@ -384,14 +384,14 @@ body{
 }
 
 #banner3 .banner-box:nth-child(1){
-	background: url("Image/i3.jpg");
+	background: url("Images/i3.jpg");
 }
 
 #banner3 .banner-box:nth-child(2){
-	background: url("Image/i2.jpg");
+	background: url("Images/i2.jpg");
 }
 #banner3 .banner-box:nth-child(3){
-	background: url("Image/i7.jpg");
+	background: url("Images/i7.jpg");
 }
 
 #newsletter{
@@ -399,7 +399,7 @@ body{
 	justify-content: space-between;
 	flex-wrap: wrap;
 	align-items: center;
-	background: url("Image/banner/b2.jpg");
+	background: url("Images/banner/b2.jpg");
 	height: 30vh;
 	width: 100%;
 	background-repeat: no-repeat;
